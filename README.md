@@ -18,4 +18,4 @@ Foreign tourists and also Mexicans are the target audience of this project.
 In this project, the K-Means clustering technique was employed to find the neighborhoods of Mexico City in which people can find different options of restaurants. 
 Restaurant data were obtained from API calls (city f Calgary, Foursquare). 
 
-Lenguage: Python (numpy, pandas, requests, nominatim, folium)
+Lenguage: Python (numpy, pandas, requests, nominatim, folium, pgeocode)
